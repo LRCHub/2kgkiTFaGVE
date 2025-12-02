@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "PIECES OF A DREAM",
+  "base_artist": "CHEMISTRY",
+  "createdAt": "2025-12-02T17:23:24.163988Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pieces Of A Dream",
+      "artist": "Incognito",
+      "has_synced": true,
+      "path": "select/01_Pieces_Of_A_Dream_Incognito.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pieces of a Dream",
+      "artist": "Anastacia",
+      "has_synced": true,
+      "path": "select/02_Pieces_of_a_Dream_Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pieces Of A Dream",
+      "artist": "MIKE",
+      "has_synced": true,
+      "path": "select/03_Pieces_Of_A_Dream_MIKE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pieces Of A Dream",
+      "artist": "Anastacia",
+      "has_synced": true,
+      "path": "select/04_Pieces_Of_A_Dream_Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pieces Of A Dream",
+      "artist": "MIKE",
+      "has_synced": true,
+      "path": "select/05_Pieces_Of_A_Dream_MIKE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pieces of a Dream",
+      "artist": "Nikolo Kotzev",
+      "has_synced": false,
+      "path": "select/06_Pieces_of_a_Dream_Nikolo_Kotzev.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pieces of a dream",
+      "artist": "ANASTACIA",
+      "has_synced": true,
+      "path": "select/07_Pieces_of_a_dream_ANASTACIA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pieces of a Dream",
+      "artist": "ZIPANG OPERA",
+      "has_synced": true,
+      "path": "select/08_Pieces_of_a_Dream_ZIPANG_OPERA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "PIECES OF A DREAM",
+      "artist": "CHEMISTRY",
+      "has_synced": true,
+      "path": "select/09_PIECES_OF_A_DREAM_CHEMISTRY.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "PIECES OF A DREAM",
+      "artist": "CHEMISTRY",
+      "has_synced": true,
+      "path": "select/10_PIECES_OF_A_DREAM_CHEMISTRY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pieces Of A Dream",
+      "artist": "Anastacia",
+      "has_synced": true,
+      "path": "select/11_Pieces_Of_A_Dream_Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "PIECES OF A DREAM",
+      "artist": "CHEMISTRY",
+      "has_synced": true,
+      "path": "select/12_PIECES_OF_A_DREAM_CHEMISTRY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PIECES OF A DREAM",
+      "artist": "CHEMISTRY",
+      "has_synced": false,
+      "path": "select/pl_01_PIECES_OF_A_DREAM_CHEMISTRY.txt"
+    }
+  ]
+}
